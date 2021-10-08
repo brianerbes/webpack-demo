@@ -1,0 +1,28 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "I'm following the webpack docs since \"Getting Started\", don't mind me.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianerbes/webpack-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianerbes/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/brianerbes/webpack-demo#readme",
+  "devDependencies": {
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
